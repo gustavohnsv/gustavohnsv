@@ -23,4 +23,4 @@
 
 ## ⭐ GitHub Stats
 
-[![Github gustavohnsv](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohnsv&hide=html&layout=compact&theme=tokyonight)](https://github.com/gustavohnsv/github-readme-stats)
+[![Github gustavohnsv](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohnsv&hide=html&layout=compact&theme=tokyonight)](https://github.com/gustavohnsv)
