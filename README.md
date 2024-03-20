@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Gustavo, muito prazer!
+## 💜 Olá, meu nome é Gustavo, muito!
 
 🔭 Formado em Técnico em Desenvolvimento de Sistemas, na ETEC de Poá, e atualmente sou estudante do curso de Sistemas de Informação, na Universidade de São Paulo (EACH-USP).
 
@@ -21,6 +21,19 @@
 
 ---
 
-## ⭐ GitHub Stats
+## ⭐ GitHub Status
 
-[![Github gustavohnsv](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohnsv&hide=html&layout=compact&theme=tokyonight)](https://github.com/gustavohnsv)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohnsv&hide=html&layout=compact&theme=tokyonight)](https://github.com/gustavohnsv)
+
+---
+
+## 📞 Contatos
+
+Você pode usar o Discord se precisar falar comigo.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/348936743631716354)](https://discord.com/users/348936743631716354)
+
+Outras formas de contato:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohnsv/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavohnsv/)
