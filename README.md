@@ -23,7 +23,7 @@
 
 ## ⭐ GitHub Status
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohnsv&hide=html&layout=compact&theme=tokyonight)](https://github.com/gustavohnsv)
+[![gustavohnsv](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohnsv&hide=html&layout=compact&theme=tokyonight)](https://github.com/gustavohnsv)
 
 ---
 
