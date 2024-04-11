@@ -1,4 +1,5 @@
 <div align="center">
+  
 ## 💜 Olá, meu nome é Gustavo, muito prazer!
 
 🔭 Formado em Técnico em Desenvolvimento de Sistemas, na ETEC de Poá, e atualmente sou estudante do curso de Sistemas de Informação, na Universidade de São Paulo (EACH-USP).
@@ -41,4 +42,5 @@ Outras formas de contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavohnsv/)
 
 ![Snake animation](https://github.com/gustavohnsv/gustavohnsv/blob/output/github-contribution-grid-snake.svg)
+
 </div>
