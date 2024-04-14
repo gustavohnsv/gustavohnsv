@@ -41,6 +41,6 @@ Outras formas de contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohnsv/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavohnsv/)
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gustavohnsv/gustavohnsv/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gustavohnsv/gustavohnsv/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
 </div>
