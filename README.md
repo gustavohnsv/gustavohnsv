@@ -1,40 +1,52 @@
 <div align="center">  
   
-## 💜 Olá, meu nome é Gustavo, muito prazer!
+## 💜 Olá, meu nome é Gustavo, muito prazer! 
 
-🔭 Formado em Técnico em Desenvolvimento de Sistemas, na ETEC de Poá, e atualmente sou estudante do curso de Sistemas de Informação, na Universidade de São Paulo (EACH-USP).
 
-💬 Durante minha descoberta pela programação, me sinto cada vez mais curioso para aprender linguagens novas e métodos para implemetá-las no meu dia a dia.
+🔭 Formado em **Técnico em Desenvolvimento de Sistemas**, na [ETEC de Poá](https://www.cps.sp.gov.br/etecs/etec-de-poa/), e atualmente sou estudante do curso de **Sistemas de Informação**, na [Universidade de São Paulo (EACH-USP)](https://www5.usp.br/).
+
+💬 Durante minha descoberta pela programação, sinto cada vez mais curiosidade em aprender novas linguagens e métodos para implementá-las no meu dia a dia.
 
 <br>
 
 ## 🚀 Minhas Skills
 
+<div class="skill-imagens" align="left">
 
-<div class="skill-imagens">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50"/>
+### ⚙️ - Algumas que já tive contato:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+
+
+### ⚙️ - Atualmente estou estudando por conta própria:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+          
+          
+### ⚙️ - Também estou estudando na faculdade:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50"/>
-</div>
 
+</div>
 
 <br>
 
-## 🕹️ Ambientes de Trabalho
+## 🕹️ Ambientes & Ferramentas de Trabalho
 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
@@ -58,7 +70,11 @@ Outras formas de contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohnsv/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavohnsv/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gustavohnsv)
+
+![Siga-me](https://img.shields.io/github/followers/gustavohnsv.svg?style=social&label=Follow&maxAge=2592000)
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gustavohnsv/gustavohnsv/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+
 
 </div>
