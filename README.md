@@ -36,4 +36,6 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+<hr>
+
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gustavohnsv/gustavohnsv/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
